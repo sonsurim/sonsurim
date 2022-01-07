@@ -63,16 +63,13 @@
 </p>
 
 <br/>
- 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonsurim">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sonsurim&&show_icons=true&theme=react">
-    </td>
-  </tr>
-</table>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonsurim" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonsurim&&show_icons=true&theme=react" />
+</a>
+ 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=12)

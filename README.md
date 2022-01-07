@@ -7,7 +7,7 @@
       <h3> 손수림(Son Surim)</h3>
     </td>
     <td align=center>
-      <a href="https://www.notion.so/thstnfla/Son-Surim-6e288aae9ea3406da7a604f1065f16f0">
+      <a href="https://bit.ly/surim">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>
         &nbsp;&nbsp;&nbsp;
       </a>

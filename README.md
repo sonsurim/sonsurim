@@ -64,12 +64,9 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonsurim" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonsurim&&show_icons=true&theme=react" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonsurim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
+[![My Stats](https://github-readme-stats.vercel.app/api?username=sonsurim&&show_icons=true&theme=react)](https://github.com/anuraghazra/convoychat)
+
+
  
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=12)

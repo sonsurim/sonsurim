@@ -4,9 +4,9 @@
 <table>
   <tr>
     <td align=center>
-      <h3> 손수림(Son Surim)</h3>
+      <h3>SSon</h3>
     </td>
-    <td align=center>
+    <td align=center colspan="2">
       <a href="https://bit.ly/surim">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='30'>
         &nbsp;&nbsp;&nbsp;
@@ -21,15 +21,15 @@
       </a>
     </td>
   </tr>
-  <tr height=200>
-    <td><img src="https://user-images.githubusercontent.com/47546413/148397508-d3703687-d8b1-4925-bbff-dea68370c097.png" height=200></td>
+  <tr height=150>
+    <td><img src="https://user-images.githubusercontent.com/47546413/148397508-d3703687-d8b1-4925-bbff-dea68370c097.png" height=150></td>
     <td>
       <table>
         <tr>
-          <td height=100>🧐 알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 즐깁니다.</td>
+          <td height=75>🧐 알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 즐깁니다.</td>
         </tr>
         <tr>
-          <td height=100>📝 배운것을 기록하고 정리하는 것을 좋아하며 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주도적으로 개발하고 성장할 수 있는 환경을 좋아합니다.</td>
+          <td height=75>📝 배운것을 기록하고 정리하는 것을 좋아하며 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주도적으로 개발하고 성장할 수 있는 환경을 좋아합니다.</td>
         </tr>
       </table>
     </td>

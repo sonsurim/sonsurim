@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hi%20there%20👋,%20I'm%20Surim&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&section=header)
 
 ### 👩‍💻 About Me
 <table>
@@ -41,7 +41,7 @@
  ### 💪 Tech Stacks
 <p>
 
-  ![html](https://img.shields.io/badge/Html-E7603B?style=for-the-badge&logo=Html5&logoColor=white)
+![html](https://img.shields.io/badge/Html-E7603B?style=for-the-badge&logo=Html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -55,13 +55,12 @@
 
 </p>
 <p>
-  
+
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
 </p>
 
 <br/>

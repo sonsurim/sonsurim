@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&section=header)
+![Header](https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=12&height=80)
 
 ### 👩‍💻 About Me
 <table>
@@ -8,35 +8,33 @@
     </td>
     <td align=center>
       <a href="https://bit.ly/surim">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='30'>
         &nbsp;&nbsp;&nbsp;
       </a>
       <a href="https://github.com/sonsurim">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
         &nbsp;&nbsp;&nbsp;
       </a>
       <a href="https://www.linkedin.com/in/%EC%88%98%EB%A6%BC-%EC%86%90-681b93226">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
         &nbsp;&nbsp;&nbsp;
       </a>
     </td>
   </tr>
-  <tr height=300>
-    <td><img src="https://user-images.githubusercontent.com/47546413/148397508-d3703687-d8b1-4925-bbff-dea68370c097.png" height=300></td>
+  <tr height=200>
+    <td><img src="https://user-images.githubusercontent.com/47546413/148397508-d3703687-d8b1-4925-bbff-dea68370c097.png" height=200></td>
     <td>
       <table>
         <tr>
-          <td height=150>🧐 알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 즐깁니다.</td>
+          <td height=100>🧐 알아보기 쉬운 코드 작성을 위해 변수명과 로직에 대한 고민을 즐깁니다.</td>
         </tr>
         <tr>
-          <td height=150>📝 배운것을 기록하고 정리하는 것을 좋아하며 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주도적으로 개발하고 성장할 수 있는 환경을 좋아합니다.</td>
+          <td height=100>📝 배운것을 기록하고 정리하는 것을 좋아하며 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주도적으로 개발하고 성장할 수 있는 환경을 좋아합니다.</td>
         </tr>
       </table>
     </td>
   </tr>
  </table>
- 
-<br/>
  
  ### 💪 Tech Stacks
 <p>
@@ -65,10 +63,12 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonsurim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My Stats](https://github-readme-stats.vercel.app/api?username=sonsurim&&show_icons=true&theme=react)](https://github.com/anuraghazra/convoychat)
+
+### ✍️ New Post
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=surim014)](https://velog.io/@surim014)
 
 
  
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=12)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=12&height=80)

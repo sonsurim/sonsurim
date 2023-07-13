@@ -1,6 +1,3 @@
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@surim014)](https://velog.io/@surim014)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonsurim)](www.linkedin.com/in/sonsurim)
-
 ## 👻 Hello, I'm Sonny!
 
 - 🌱 Frontend Developer

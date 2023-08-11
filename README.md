@@ -14,7 +14,6 @@
 ### 🎞 Work Experience
 
 - [LINE+](https://linepluscorp.com/) | Frontend Developer (2022.05 ~ )
-- [Tongro Image](https://www.clipartkorea.co.kr/main/index.php?utm_source=google&utm_medium=cpc&utm_campaign=Ckkeyword_PC&utm_term=%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B5%AC%EC%9E%85&gclid=CjwKCAjw6fyXBhBgEiwAhhiZsvQPfi9Vx-K5fWwpAmv0V-N9QVJBUFqqy0TKDPH6hoGXZEDmZXOskhoCymUQAvD_BwE) | Frontend Developer (2020.02 ~ 2021.08)
 
 ### 🙌 Share
 - [Korean FE article](https://kofearticle.substack.com/) (2022.08 ~)

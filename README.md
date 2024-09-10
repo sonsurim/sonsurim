@@ -11,8 +11,8 @@
 - [LINE+](https://linepluscorp.com/) | Frontend Developer (2022.05 ~ )
 
 ### 🚀 Activities
-- [@hamsurang](https://github.com/hamsurang) | **FE 커뮤니티 운영**  (2023. 05 ~)
-- [@Korean FE Article](https://kofearticle.substack.com/) | **프런트엔드 번역 활동** (2022.08 ~)
+- [함수랑산악회](https://github.com/hamsurang) | **FE 커뮤니티 운영**  (2023. 05 ~)
+- [Korean FE Article](https://kofearticle.substack.com/) | **프런트엔드 번역 활동** (2022.08 ~)
 
 ### 📝 New Post
 
